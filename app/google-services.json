@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "521809788187",
+    "firebase_url": "https://saralvigyan-e0cab.firebaseio.com",
+    "project_id": "saralvigyan-e0cab",
+    "storage_bucket": "saralvigyan-e0cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521809788187:android:eb5b7a4af7d53e8d",
+        "android_client_info": {
+          "package_name": "com.saralvigyan.saralvigyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521809788187-9c00oah70t5rm8q71coq8h42uqadk051.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2GOIIjz_5a_pGWH6Ylry7VqznrE0NZFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
