@@ -2,9 +2,10 @@
 <resources>
     <!--#7D9705-->
     <!--#4C6900-->
-    <color name="colorPrimary">#F0823A</color>
-    <color name="colorPrimaryDark">#B85406</color>
-    <color name="colorAccent">#FFB368</color>
+    <color name="colorPrimary">#E64A19</color>
+    <color name="colorPrimaryDark">#AC0800</color>
+    <color name="colorPrimaryLight">#FF7D47</color>
+    <color name="colorAccent">#FFB06B</color>
     <color name="textColorPrimary">#000000</color>
     <color name="windowBackground">#FFFFFF</color>
     <color name="navigationBarColor">#000000</color>
