@@ -48,7 +48,7 @@
             android:name=".service.HttpService"
             android:exported="false" />
 
-        <activity android:name=".ChangePassword"></activity>
+        <activity android:name=".activity.ChangePassword"></activity>
     </application>
 
 </manifest>
